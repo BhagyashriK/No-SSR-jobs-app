@@ -1,5 +1,7 @@
 React application for displaying the Jobs with mocked API json-server.
-Consist of two routes - 1. Jobs List 2. Job Details View
+Consist of two routes: 
+- Job List 
+- Job Details
 
 **Tech Stack:**
 
