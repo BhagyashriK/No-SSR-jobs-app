@@ -1,0 +1,13 @@
+{
+  "name": "jobs-app-backend",
+  "version": "1.0.0",
+  "description": "Jobs app backend",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "server": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
